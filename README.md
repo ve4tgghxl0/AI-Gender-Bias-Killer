@@ -5,7 +5,7 @@ AI Gender Bias Killer
 
 > **说明**：复制以下给你的agent ai即可部署该技能
 
-|  请将公开仓库https://github.com/ve4tgghxl0/AI-Gender-Bias-Killer下载并安装为本地Skill   |
+|  请将公开仓库https://github.com/ve4tgghxl0/AI-Gender-Bias-Killer  下载并安装为本地Skill   |
 
 | 部分 | 双标特征库机制|
 | --- | --- |
