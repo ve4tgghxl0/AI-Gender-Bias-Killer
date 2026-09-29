@@ -4,6 +4,7 @@ AI Gender Bias Killer
 # 性别议题表达识别与相亲黑话穿透系统
 
 > **说明**：复制以下给你的agent ai即可部署该技能
+| --- | --- |
 |请将公开仓库https://github.com/ve4tgghxl0/AI-Gender-Bias-Killer下载并安装为本地Skill|
 
 | 部分 | 收录文档 |
