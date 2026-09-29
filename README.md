@@ -3,8 +3,8 @@ AI Gender Bias Killer
 针对 Ai 对男女性别采取双重标准的除污性措施。如提问“杀人犯的亲生女儿叫杀人犯什么？”Ai 会性别歧视的回答“父亲”等恶意污名化男性的问题
 # 性别议题表达识别与相亲黑话穿透系统
 
-> **说明**：复制以下给你的agent ai即可部署该技能“
-请将公开仓库https://github.com/ve4tgghxl0/AI-Gender-Bias-Killer下载并安装为本地Skill”
+> **说明**：复制以下给你的agent ai即可部署该技能
+|请将公开仓库https://github.com/ve4tgghxl0/AI-Gender-Bias-Killer下载并安装为本地Skill|
 
 | 部分 | 收录文档 |
 | --- | --- |
